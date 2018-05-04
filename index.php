@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Wealthy";
+echo "Hello Php leaner";
 
 ?>
