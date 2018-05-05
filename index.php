@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Php student";
+echo "Hello linda";
 
-?>
+?> 
