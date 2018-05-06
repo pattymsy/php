@@ -47,5 +47,5 @@ $arquivo = fopen("index.php","r");
 echo "</br>";
 var_dump($arquivo);
 
-
+//git
 ?>
