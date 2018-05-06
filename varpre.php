@@ -13,7 +13,7 @@ echo"</br>";
 
 echo "Nome: $nome";
 
-//localhost/php/varpre.php?a=123  (a partir do ? representa a variavel)
+//localhost/php/varpre.php?a=123  (a partir do ? representa a variavel e dando o valor de 123 a ela)
 
 $numero = (int)$_GET["b"]; //definindo o tipo da variavel, nesse caso inteiro (int)
 
