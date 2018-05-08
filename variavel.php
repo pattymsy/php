@@ -1,4 +1,5 @@
 <?php
+//documentacao de variaveis php acesse php.net/manual/pt_BR/language.operators.php
 $nome = "Patricia";
 $sobrenome = "Mesguvich";
 
@@ -37,7 +38,7 @@ $agora = new DateTime();
 
 echo "</br>";
 
-var_dump($agora); // para saber que tipo de variavel e DateTime
+var_dump($agora); // para saber que tipo de variavel e a quantidade
 
 /////////////////////////////////////////////////////
 // Funcao fopen
