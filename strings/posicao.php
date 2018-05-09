@@ -21,4 +21,5 @@ $texto2 = substr($frase,$q + strlen($palavra), strlen($frase)); //mostrar valore
 echo "<br>Mostra dados de um ponto ao outro escolhidos: ";
 var_dump($texto2);
 
+//mais funcoes de strings php https://www.php.net/manual/pt_BR/function.strlen.php
 ?>
